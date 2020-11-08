@@ -210,3 +210,31 @@
 	word-wrap: break-word;
 	
 }
+
+.writings {
+	width: 60%;
+	margin-left: 20%;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+.writings a {
+	text-decoration: none;
+	color: black;
+}
+
+.subtitles {
+	text-align: center;
+	font-size: 1.1em;
+}
+
+.writingWrapper {
+	font-size: 20px;
+	margin-top: 0.5em;
+	width: 60%;
+	margin-left: 20%;
+	margin-bottom: 3em;
+	
+	text-align: justify;
+  	text-justify: inter-word;
+}
